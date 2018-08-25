@@ -1,4 +1,5 @@
 # hello-world
-ideas,resurces,or things to discuss 
 
-New branch practice for commit 
+Hi everyone !
+
+ Charles here, i like programming , math ,and girls :)
