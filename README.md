@@ -1,2 +1,5 @@
 # hello-world
-ideas,resurces,or things to discuss 
+
+Hi everyone !
+
+ Charles here, i like programming , math ,and girls :)
